@@ -3,9 +3,12 @@ body {
 }
 h1 {
     color: chartreuse;
-    font-size: 15px;
+    font-size: 35px;
 }
 h2 {
     color: cyan;
+    font-size: 28px;
+}
+p {
     font-size: 12px;
 }
